@@ -1,3 +1,7 @@
+#Author David Keller
+#this program uses a median filter over 9 images to remove any unwanted bits that arent consistant accross all the images
+#finished september 7, 2016
+#git hub address: https://github.com/fireflyes/image-median
 from PIL import Image
 import statistics
 import time
